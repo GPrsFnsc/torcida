@@ -1,4 +1,4 @@
-# torcida
+# Torcida
  O projeto foi desenvolvido utilizando o Zend Framework 3 e MySql.
  Para executar o projeto corretamente é necessário seguir os seguintes passos:
 
